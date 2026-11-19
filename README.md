@@ -44,5 +44,4 @@ Estou reforçando minha base em Java e orientação a objetos enquanto aprendo a
 <p>
   <a href="mailto:jaelsondias.jr@gmail.com"><img src="gmail.png" alt="" width="24"> jaelsondias.jr@gmail.com</a><br>
   <a href="https://www.instagram.com/jaelson.diass/"><img src="instagram.svg" alt="" width="24"> Instagram · @jaelson.diass</a><br>
-  <a href="https://github.com/JaelsonDiasJr"><img src="github.svg" alt="" width="24"> GitHub · @JaelsonDiasJr</a>
 </p>
